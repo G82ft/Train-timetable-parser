@@ -10,5 +10,5 @@ You can get timetable in two ways:
 - Run the script without command line arguments. You will be prompted to enter the name of the departure and arrival
   stations.
 
-In any case, you will receive a formatted timetable for today (without departed trains) with departure and arrival times
+In any case, you will receive a formatted timetable for today with departure and arrival times
 and price in RUB. Also, you will get a JSON file.
