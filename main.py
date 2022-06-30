@@ -10,8 +10,6 @@ HEADERS: dict = {
     "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0',
     "Accept": '*/*'
 }
-with open('stations.json') as data:
-    STATIONS: dict = json.load(data)
 LOGGER: logging.Logger = logging.getLogger(__name__)
 
 # Change logging level
